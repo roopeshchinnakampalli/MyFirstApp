@@ -11,4 +11,9 @@ public class Utility {
     public Utility(String name) {
         this.name = name;
     }
+
+    public void doSomething(){
+
+    }
+
 }
